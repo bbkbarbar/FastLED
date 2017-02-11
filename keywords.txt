@@ -23,6 +23,7 @@ CHSVPalette16	KEYWORD1
 CHSVPalette256	KEYWORD1
 CRGBPalette16	KEYWORD1
 CRGBPalette256	KEYWORD1
+CRGBArray	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
